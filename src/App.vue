@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://kirlled.github.io/curso-vuejs/src/assets/logo.png">
     <h1>PlatziMusic</h1>
     
     <select v-model="selectedCountry">
